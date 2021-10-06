@@ -25,7 +25,7 @@ function setup() {
 
   //creating invisible ground
   // Hint: Checkout Step 1 image inside screenshots folder
-
+  
 
 }
 
@@ -52,7 +52,7 @@ function draw() {
 
   //stop trex from falling down
   //Hint : Checkout step 2 image inside screenshots folder
-
+  trex.collide(ground)
 
 
   drawSprites();
