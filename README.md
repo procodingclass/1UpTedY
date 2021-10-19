@@ -1,2 +1,2 @@
-# Tablet-SPCK-PRO-C3-Student-Activity
+# Tablet-SPCK-PRO-C12-Student-Activity
 Student Activity Code
